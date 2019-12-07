@@ -97,7 +97,7 @@ theme: indigo
 deploy:
   type: git
   # 下方的gh_token会被.travis.yml中sed命令替换
-  repo: https://gh_token@github.com/Bohan-hu/blog.git
+  repo: https://gh_token@github.com/Bohan-hu/Bohan-hu.github.io
   branch: master
 
 jsonContent:
